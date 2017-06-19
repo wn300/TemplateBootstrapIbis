@@ -1,0 +1,33 @@
+.oferts-top{
+    margin-top: 15px;
+    padding-bottom: 15px;
+}
+
+.container-total{
+    width: 100% !important;
+}
+
+.row-general-left{
+    margin-right: 0px
+}
+
+.btn-shopping-car{
+    background-color: #EA8BD9 !important;
+    border-color: #D282C4 !important;
+    border-radius: 0px !important;
+    text-shadow: none !important;
+}
+
+.btn-shopping-car:hover{
+    background-color: #D282C4 !important;
+    border-color: #EA8BD9 !important;
+     border-radius: 0px !important;
+    text-shadow: none !important;
+}
+
+
+
+.panel-contact {
+    margin-top: 15px;
+    margin-left: 20px;
+}

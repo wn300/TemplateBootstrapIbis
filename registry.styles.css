@@ -1,0 +1,50 @@
+.oferts-top{
+    margin-top: 15px;
+    padding-bottom: 15px;
+}
+
+.row-general-left{
+    margin-right: 0px
+}
+
+.btn-shopping-car{
+    background-color: #EA8BD9 !important;
+    border-color: #D282C4 !important;
+    border-radius: 0px !important;
+    text-shadow: none !important;
+}
+
+.btn-shopping-car:hover{
+    background-color: #D282C4 !important;
+    border-color: #EA8BD9 !important;
+     border-radius: 0px !important;
+    text-shadow: none !important;
+}
+
+.panel-registry {
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+@media (max-width: 3000px){
+    .btn-Register{
+        background-color: #EA8BD9 !important;
+        border-color: #D282C4 !important;
+        border-radius: 0px !important;
+        text-shadow: none !important;
+        margin-top: 26px
+    }
+}
+
+@media (max-width: 1024px){
+    .btn-Register{
+        background-color: #EA8BD9 !important;
+        border-color: #D282C4 !important;
+        border-radius: 0px !important;
+        text-shadow: none !important;
+        margin-top: 0px
+    }
+}
+
+
+
